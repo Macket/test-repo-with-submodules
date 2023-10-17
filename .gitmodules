@@ -1,0 +1,6 @@
+[submodule "test-submodule1"]
+	path = test-submodule1
+	url = https://github.com/Macket/test-submodule1
+[submodule "test-submodule2"]
+	path = test-submodule2
+	url = https://github.com/Macket/test-submodule2
